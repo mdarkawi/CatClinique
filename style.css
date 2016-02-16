@@ -1,0 +1,45 @@
+
+
+/*mobile*/
+@media only screen and (max-device-width : 767px) {
+
+	
+
+}
+
+.logo{
+	background-image: url("images/chat-Bada-retouche.png");
+	background-repeat:no-repeat;
+	background-size:20%;
+	height: 220px;
+}
+header{
+		height: 50px;
+	    background-color: red;
+	}
+.texteHeader{
+	width: 100%;
+	display: table;
+	text-align: center;
+}
+.containermenu{
+	max-width: 100%;
+}
+footer{
+	height: 50px;
+    background-color: red;
+}
+
+div a, div a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
+/*desktop*/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+	
+
+}
